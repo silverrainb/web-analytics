@@ -1,6 +1,6 @@
 # CUNY MSDS DATA620 Web Analytics
 
-#### Team 5: Meaghan, Ricki, Ritesh Lohiya, Rose Koh
+#### Team 5: Meaghan Burke, Rickdon Singh, Ritesh Lohiya, Rose Koh, Christopher Estevez
 
 ##### Week One [6/4 - 6/11]
 * Part 1 - Set up Dev Environment 
